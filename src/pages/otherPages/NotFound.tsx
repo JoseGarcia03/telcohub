@@ -9,7 +9,7 @@ export const NotFound = () => {
   return (
     <>
       <PageMeta
-      title="FULLDATA | Página no encontrada"
+      title="TelcoHub | Página no encontrada"
       description="Página no encontrada (Error 404). La URL que ingresaste no está disponible. Regresa a la página principal o explora nuestras secciones principales para encontrar lo que buscas."
       />
       <div className="relative flex flex-col items-center justify-center min-h-screen p-6 overflow-hidden z-1">
@@ -38,7 +38,7 @@ export const NotFound = () => {
           </Link>
         </div>
         <p className="absolute text-sm text-center text-gray-500 -translate-x-1/2 bottom-6 left-1/2 dark:text-gray-400">
-          &copy; {new Date().getFullYear()} - FULLDATA
+          &copy; {new Date().getFullYear()} - TelcoHub
         </p>
       </div>
     </>

@@ -20,7 +20,7 @@ export const Dashboard = () => {
   return (
     <>
       <PageMeta
-        title="FULLDATA | Dashboard"
+        title="TelcoHub | Dashboard"
         description="Visualiza y analiza el uso de materiales, el rendimiento de contratistas y la actividad de tus cuadrillas en un único panel de control."
       />
       <div className="grid grid-cols-12 gap-4 md:gap-6">

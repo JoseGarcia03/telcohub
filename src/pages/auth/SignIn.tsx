@@ -6,8 +6,8 @@ export const SignIn = () => {
   return (
     <>
       <PageMeta
-      title="FULLDATA | Iniciar Sesión"
-      description="Accede a tu cuenta de FULLDATA para gestionar contratistas, registrar materiales y visualizar estadísticas. Tu información está segura con nosotros."
+      title="TelcoHub | Iniciar Sesión"
+      description="Accede a tu cuenta de TelcoHub para gestionar contratistas, registrar materiales y visualizar estadísticas. Tu información está segura con nosotros."
       />
       <AuthLayout>
         <SignInForm />

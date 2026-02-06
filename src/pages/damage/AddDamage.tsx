@@ -15,7 +15,7 @@ export const AddDamage = () => {
   return (
     <>
       <PageMeta
-        title="FULLDATA | Llenado de avería"
+        title="TelcoHub | Llenado de avería"
         description="Registra una nueva avería de manera rápida y precisa. Completa el formulario con los datos del contratista y los detalles del incidente para llevar un control eficiente."
       />
       <div className="space-y-6">

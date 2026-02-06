@@ -61,7 +61,7 @@ export const SignInForm = () => {
                   </Label>
                   <InputField
                   id="email"
-                  placeholder="info@fulldata.com"
+                  placeholder="info@telcohub.com"
                   autocomplete="email"
                   hint={errors.email}
                   error={!!errors.email}

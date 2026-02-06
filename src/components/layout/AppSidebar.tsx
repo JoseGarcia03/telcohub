@@ -247,29 +247,9 @@ export const AppSidebar = () => {
           className="flex items-center gap-2"
         >
           {isExpanded || isMobileOpen ? (
-            <>
-              <img
-                className="dark:hidden"
-                src="/images/logo/fulldata-logo-blue.png"
-                alt="Logo"
-                width={150}
-                height={40}
-              />
-              <img
-                className="hidden dark:block"
-                src="/images/logo/fulldata-logo.png"
-                alt="Logo"
-                width={150}
-                height={40}
-              />
-            </>
+            <h1 className="text-2xl font-Bungee text-gray-800 dark:text-white">TelcoHub</h1>
           ) : (
-            <img
-              src="/images/logo/fulldata-logo-ico.png"
-              alt="Logo"
-              width={20}
-              height={10}
-            />
+            <span className="text-2xl font-Bungee text-gray-800 dark:text-white">TH</span>
           )}
         </Link>
       </div>

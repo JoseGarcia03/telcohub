@@ -16,7 +16,7 @@ export const Damage = () => {
   return (
     <>
       <PageMeta
-        title="FULLDATA | Averías"
+        title="TelcoHub | Averías"
         description="Gestiona tus averías. Crea, visualiza y elimina averías desde un panel intuitivo y seguro."
       />
       <PageBreadcrumb pageTitle="Averías" />

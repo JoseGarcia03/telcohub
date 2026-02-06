@@ -6,8 +6,8 @@ export const SignUp = () => {
   return (
     <>
       <PageMeta
-      title="FULLDATA | Registro"
-      description="Crea tu cuenta en FULLDATA y empieza a registrar actividades, materiales y gestionar tu información como contratista o administrador. Plataforma segura y eficiente para el manejo de tus operaciones."
+      title="TelcoHub | Registro"
+      description="Crea tu cuenta en TelcoHub y empieza a registrar actividades, materiales y gestionar tu información como contratista o administrador. Plataforma segura y eficiente para el manejo de tus operaciones."
       />
       <AuthLayout>
         <SignUpForm />

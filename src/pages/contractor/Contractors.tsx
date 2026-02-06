@@ -16,7 +16,7 @@ export const Contractors = () => {
   return (
     <>
       <PageMeta
-      title="FULLDATA | Contratistas"
+      title="TelcoHub | Contratistas"
       description="Gestiona fácilmente los contratistas de tu organización: crea, visualiza y elimina registros desde un panel intuitivo y seguro. FULLDATA simplifica tu administración."
       />
       <PageBreadcrumb pageTitle="Contratistas" />

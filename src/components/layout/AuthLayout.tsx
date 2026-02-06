@@ -16,14 +16,9 @@ export const AuthLayout = ({ children }: Props) => {
               <GridShape />
               <div className="flex flex-col items-center max-w-xs">
                 <div className="mb-4">
-                  <img
-                    width={320}
-                    height={48}
-                    src="/images/logo/fulldata-logo.png"
-                    alt="Logo"
-                  />
-                  <p className="text-center text-gray-400 dark:text-white/60 -mt-8">
-                    Conectados contigo
+                  <h1 className="text-8xl text-white mb-10 font-Bungee">TelcoHub</h1>
+                  <p className="text-center text-gray-400 dark:text-white/60 -mt-8 text-sm font-Bungee">
+                    Toda tu operación, en un solo lugar.
                   </p>
                 </div>
               </div>
