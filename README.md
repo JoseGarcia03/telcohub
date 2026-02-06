@@ -1,5 +1,5 @@
-# FULLDATA
-Conectados contigo.
+# TelcoHub
+Toda tu operación, en un solo lugar.
 
 Sistema interno de gestión para empresas de telecomunicaciones.
 
