@@ -6,10 +6,10 @@ Sistema interno de gestión para empresas de telecomunicaciones.
 ![home_screen_desktop](./public/images/views/home_screen_desktop.png)
 
 ## 📦 Despliegue
-- [FULLDATA](https://fulldata.vercel.app/signin)
+- [TelcoHub](https://telcohub.vercel.app/signin)
 
 ## 🧩 Descripción del Proyecto
-FULLDATA es una plataforma web diseñada para empresas del sector telecomunicaciones, con el objetivo de centralizar la operación técnica y administrativa. Permite registrar visitas técnicas, materiales utilizados y gestionar contratistas, todo dentro de una interfaz moderna y responsiva.
+TelcoHub es una plataforma web diseñada para empresas del sector telecomunicaciones, con el objetivo de centralizar la operación técnica y administrativa. Permite registrar visitas técnicas, materiales utilizados y gestionar contratistas, todo dentro de una interfaz moderna y responsiva.
 
 ## Stack de Tecnología 🛠️
 
